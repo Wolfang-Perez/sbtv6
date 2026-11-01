@@ -1,0 +1,10 @@
+{
+  "name": "sbtv6",
+  "version": "6.0.0",
+  "description": "SBTV6",
+  "packageType": "app",
+  "appName": "SBTV6",
+  "appPath": "app/p6.html",
+  "serviceFile": "c6.js",
+  "keys": []
+}
